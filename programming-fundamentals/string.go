@@ -21,5 +21,4 @@ func main() {
 	for i, v := range x { // range returns the index and the value
 		fmt.Printf("at index position %d we have hex %#x\n", i,v)
 	}	
-
 }

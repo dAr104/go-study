@@ -5,7 +5,7 @@ import (
 	"runtime"
 )
 
-var a byte // alias for int8
+var a byte // alias for uint8
 var b rune // alias for int32 --> UTF8 4 byte for all character in the world
 
 func main() {

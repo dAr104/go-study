@@ -73,6 +73,4 @@ func main() {
 
 	xp := [][]string{jb, mb} // matrice
 	fmt.Println(xp)
-
-
 }
